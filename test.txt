@@ -1,3 +1,4 @@
 this is the test file
 modified
 Conflict
+step 7 change
